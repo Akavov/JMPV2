@@ -23,7 +23,7 @@ public class SimpleJDBCRunner {
         prop.put("useUnicode","true");
 
         Connection connection=null;
-        DriverManager.registerDriver(new com.mysql.jdbc.Driver());
+       // DriverManager.registerDriver(new com.mysql.jdbc.Driver());
 
         try {// 1 block
             connection=DriverManager.getConnection(url,prop);
