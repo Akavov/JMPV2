@@ -70,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbonentDAO.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AbonentDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AbonentDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="668">
@@ -90,6 +90,33 @@
                 <element signature="e#1765#1766#0" expanded="true" />
                 <marker date="1502985268244" expanded="true" signature="234:257" ph="SELECT * FRO... phonebook" />
                 <marker date="1502985268244" expanded="true" signature="325:382" ph="SELECT idpho... phonebook" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractByClassDAO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/AbstractByClassDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WrapperConnector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/WrapperConnector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-169">
+              <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,27 +147,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Abonent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Abonent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="88" lean-forward="false" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
-              <folding>
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ConnectorDB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ConnectorDB.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -149,16 +155,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Entity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Entity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -191,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/main/java/AbstractDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/ConnectionPool.java" />
         <option value="$PROJECT_DIR$/src/main/java/AbonentDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AbstractByClassDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WrapperConnector.java" />
       </list>
     </option>
   </component>
@@ -717,12 +715,12 @@
       <updated>1502560863909</updated>
       <workItem from="1502560870606" duration="666000" />
       <workItem from="1502890528914" duration="10098000" />
-      <workItem from="1502981836097" duration="2587000" />
+      <workItem from="1502981836097" duration="3715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13351000" />
+    <option name="totallyTimeSpent" value="14479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1038,6 +1036,29 @@
             <element signature="e#1765#1766#0" expanded="true" />
             <marker date="1502985268244" expanded="true" signature="234:257" ph="SELECT * FRO... phonebook" />
             <marker date="1502985268244" expanded="true" signature="325:382" ph="SELECT idpho... phonebook" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WrapperConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AbstractByClassDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
           </folding>
         </state>
       </provider>
