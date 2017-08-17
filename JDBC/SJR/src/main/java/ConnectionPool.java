@@ -25,4 +25,11 @@ public class ConnectionPool {
         Connection connection=dataSource.getConnection();
         return connection;
     }
+    public static void close(Connection connection){
+        try {
+            connection.close();
+        } catch (SQLException e) {
+            System.err.println(e);
+        }
+    }
 }
