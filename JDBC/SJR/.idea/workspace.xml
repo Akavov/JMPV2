@@ -20,7 +20,7 @@
       <file leaf-file-name="PreparedJDBCRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PreparedJDBCRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
+            <state relative-caret-position="476">
               <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -32,8 +32,8 @@
       <file leaf-file-name="SimpleJDBCRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SimpleJDBCRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-624">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="357">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1502913753191" expanded="true" signature="1096:1119" ph="SELECT * FRO... phonebook" />
@@ -60,7 +60,7 @@
       <file leaf-file-name="SingletonEngine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SingletonEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
+            <state relative-caret-position="2023">
               <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -76,8 +76,8 @@
       <file leaf-file-name="AbstractByLogicDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AbstractByLogicDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
@@ -90,7 +90,7 @@
       <file leaf-file-name="AbonentByLogicDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AbonentByLogicDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="153">
               <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,7 +116,7 @@
       <file leaf-file-name="PaymentDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PaymentDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="119">
               <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -142,7 +142,7 @@
       <file leaf-file-name="SomeLogic.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SomeLogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="340">
               <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -239,6 +239,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,8 +309,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -734,12 +734,13 @@
       <updated>1502560863909</updated>
       <workItem from="1502560870606" duration="666000" />
       <workItem from="1502890528914" duration="10098000" />
-      <workItem from="1502981836097" duration="5625000" />
+      <workItem from="1502981836097" duration="6232000" />
+      <workItem from="1503044512471" duration="388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16389000" />
+    <option name="totallyTimeSpent" value="17384000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,7 +753,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -762,20 +762,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.49317408" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.49317408" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25340393" sideWeight="0.5068259" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -796,6 +796,142 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PreparedJDBCRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SimpleJDBCRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1502913753191" expanded="true" signature="1096:1119" ph="SELECT * FRO... phonebook" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AbstractByClassDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1502975371243" expanded="true" signature="2185:2214" ph="SELECT balan... table_from" />
+            <marker date="1502975371243" expanded="true" signature="2266:2294" ph="SELECT balan... table_to" />
+            <marker date="1502975371243" expanded="true" signature="2845:2873" ph="UPDATE table... " />
+            <marker date="1502975371243" expanded="true" signature="2922:2950" ph="UPDATE table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AbstractByLogicDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AbonentByLogicDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PaymentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SomeLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="62" lean-forward="false" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -830,7 +966,7 @@
         <state relative-caret-position="714">
           <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1502958050547" expanded="true" signature="223:287" ph="INSERT INTO phonebook... " />
           </folding>
         </state>
@@ -841,16 +977,16 @@
         <state relative-caret-position="578">
           <caret line="34" column="88" lean-forward="false" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
           <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#538#539#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#718#719#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -860,7 +996,7 @@
         <state relative-caret-position="238">
           <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -900,16 +1036,16 @@
         <state relative-caret-position="51">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#538#539#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#718#719#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -946,16 +1082,16 @@
         <state relative-caret-position="578">
           <caret line="34" column="88" lean-forward="false" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
           <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#390#391#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#538#539#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#718#719#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -965,7 +1101,7 @@
         <state relative-caret-position="238">
           <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -975,7 +1111,7 @@
         <state relative-caret-position="714">
           <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1502958050547" expanded="true" signature="223:287" ph="INSERT INTO phonebook... " />
           </folding>
         </state>
@@ -986,7 +1122,7 @@
         <state relative-caret-position="464">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -997,17 +1133,17 @@
           <caret line="70" column="77" lean-forward="false" selection-start-line="70" selection-start-column="77" selection-end-line="70" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#469#478#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-            <element signature="e#1360#1361#0" expanded="true" />
-            <element signature="e#1401#1402#0" expanded="true" />
-            <element signature="e#1458#1459#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1708#1709#0" expanded="true" />
-            <element signature="e#1765#1766#0" expanded="true" />
+            <element signature="e#469#478#0" expanded="false" />
+            <element signature="e#1303#1304#0" expanded="false" />
+            <element signature="e#1360#1361#0" expanded="false" />
+            <element signature="e#1401#1402#0" expanded="false" />
+            <element signature="e#1458#1459#0" expanded="false" />
+            <element signature="e#1503#1504#0" expanded="false" />
+            <element signature="e#1560#1561#0" expanded="false" />
+            <element signature="e#1605#1606#0" expanded="false" />
+            <element signature="e#1663#1664#0" expanded="false" />
+            <element signature="e#1708#1709#0" expanded="false" />
+            <element signature="e#1765#1766#0" expanded="false" />
             <marker date="1502985268244" expanded="true" signature="234:257" ph="SELECT * FRO... phonebook" />
             <marker date="1502985268244" expanded="true" signature="325:382" ph="SELECT idpho... phonebook" />
           </folding>
@@ -1039,8 +1175,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AbstractByLogicDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />
@@ -1059,7 +1195,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PaymentDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="119">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1083,7 +1219,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AbonentByLogicDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="153">
           <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1107,7 +1243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SomeLogic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="340">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1117,7 +1253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PreparedJDBCRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
+        <state relative-caret-position="476">
           <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1127,7 +1263,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
+        <state relative-caret-position="2023">
           <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1141,8 +1277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SimpleJDBCRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="357">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1502913753191" expanded="true" signature="1096:1119" ph="SELECT * FRO... phonebook" />
