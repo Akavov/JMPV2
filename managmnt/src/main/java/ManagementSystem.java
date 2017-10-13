@@ -339,12 +339,12 @@ public class ManagementSystem {
     // Такое может произойти если используется IDE - например NetBeans.
     // Тогда вы получаете просто одни вопросы, что крайне неудобно читать
     public static void printString(Object s) {
-        //System.out.println(s.toString());
-        try {
+        System.out.println(s.toString());
+        /*try {
             System.out.println(new String(s.toString().getBytes("windows-1251"), "windows-1252"));
         } catch (UnsupportedEncodingException ex) {
             ex.printStackTrace();
-        }
+        }*/
     }
 
     public static void printString() {
