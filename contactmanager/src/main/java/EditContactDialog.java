@@ -64,9 +64,10 @@ public class EditContactDialog extends JDialog implements ActionListener {
         lblPhone.setHorizontalAlignment(SwingConstants.RIGHT);
         lblPhone.setBounds(new Rectangle(PAD, 2 * H_B + PAD, W_L, H_B));
         add(lblPhone);
-        txtPhone.setBounds(new Rectangle(W_L + 2 * PAD, 3 * H_B + PAD, W_T, H_B));
+        txtPhone.setBounds(new Rectangle(W_L + 2 * PAD, 2 * H_B + PAD, W_T, H_B));
         txtPhone.setBorder(BorderFactory.createEtchedBorder());
         add(txtPhone);
+
 
         JLabel lblEmail = new JLabel("Email:");
         lblEmail.setHorizontalAlignment(SwingConstants.RIGHT);
